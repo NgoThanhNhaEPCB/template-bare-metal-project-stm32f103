@@ -1,0 +1,5 @@
+include drivers/stm32f_peripheral_drivers/CMSIS/Makefile.mk
+include drivers/stm32f_peripheral_drivers/STM32F10x_StdPeriph_Driver/Makefile.mk
+include drivers/io_cfg/Makefile.mk
+include drivers/hardware_timer/Makefile.mk
+include drivers/software_spi/Makefile.mk

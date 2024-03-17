@@ -1,0 +1,1 @@
+include libraries/ssd1283a/Makefile.mk
